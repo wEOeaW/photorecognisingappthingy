@@ -1,0 +1,40 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(195, 199, 202);
+  }
+  .heading_div
+  {
+    float:none ;
+    background: white ; 
+    padding: 10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px rgb(128, 158, 212);
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .result_para_tag span
+  {
+    white-space: pre-line;
+  }
+
+.copy_right_footer {
+  position: fixed;
+  color:lightgoldenrodyellow;
+  bottom: 0;
+  width: 100%;
+  background-color:darksalmon;
+  line-height: 3;
+  text-align: center;
+} 
